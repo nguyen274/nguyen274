@@ -1,1 +1,1 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyen274)](https://github.com/anuraghazra/github-readme-stats)
+![nguyen274's github stats](https://github-readme-stats.vercel.app/api?username=nguyen274&show_icons=true&theme=default)
