@@ -1,6 +1,6 @@
 ### My name is Nguyen
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://media4.giphy.com/media/euuaA2cwLEUuI/giphy.gif)
 
 
 Skills: HTML / CSS / PHP / JAVA
